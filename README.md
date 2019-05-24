@@ -8,3 +8,4 @@
 
 1. Run `make`
 1. Run `make help` for help
+2. scons
